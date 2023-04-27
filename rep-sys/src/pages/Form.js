@@ -136,29 +136,6 @@ function Form() {
               )
           }
         })()}
-
-
-
-
-
-        {/* <br></br>
-            <label>Kod do mLegitymacji
-              <input type="email" name="mLegitymacja"></input>
-            </label> */}
-
-
-        {/* <br></br>
-            <label>Hasło do MS Teams
-              <input type="email" name="msTeams"></input>
-            </label> */}
-
-
-        {/* <br></br>
-        <label>Zaświadczenie
-          <textarea name="Zasw"></textarea>
-        </label> */}
-
-
         <br></br>
         <input type="submit" value="Submit" />
       </form>
